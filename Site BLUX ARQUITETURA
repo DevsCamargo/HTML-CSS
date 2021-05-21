@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet">
+
+    <title>BLUX ARQUITETURA</title>
+    <style>
+        h1 {
+            font-family: century gothic;
+            font-size: 30pt; 
+            color:rgb(128, 53, 31);
+            text-shadow: 2px 2px 4px rgb(177, 177, 177);
+        }
+        h2 {
+            font-family: century gothic;
+            font-size: 20pt;
+            color:rgb(128, 53, 31);
+            text-shadow: 2px 2px 4px rgb(177, 177, 177);
+        }
+        ul {
+            font-family: century gothic;
+            font-size: 15pt;
+            color:rgb(128, 53, 31);
+            text-shadow: 2px 2px 4px rgb(156, 155, 155);
+        }
+        th {
+            font-family: century gothic;
+            font-size: 20pt;
+            color:rgb(128, 53, 31);
+            text-shadow: 2px 2px 4px rgb(177, 177, 177);
+        }
+        td {
+            font-family: century gothic;
+            font-size: 15pt;
+            color:rgb(139,69,19);
+            text-shadow: 2px 2px 4px rgb(161, 161, 161);
+        }
+        caption {
+            font-family: century gothic;
+            font-size: 15pt;
+            color:rgb(128, 53, 31);
+            text-shadow: 2px 2px 4px rgb(177, 177, 177);
+        }
+        footer {
+            font-family: century gothic;
+            font-size: 15pt;
+            color:rgb(128, 53, 31);
+            text-shadow: 2px 2px 4px rgb(177, 177, 177);
+        }
+    </style>
+<link rel="sortcut icon" href="filter-results-button.png" type="image/x-icon">
+</head>
+<body background="fundo-elegante-padrao-de-linha-hexagonal_1017-19742.jpg"></body>
+<body>
+    <header>
+        <center><h1>BLUX ARQUITETURA</h1></center>
+    </header>
+   
+    <main>
+        <center><h2>Venha fazer seu orçamento!</h2></center>
+        <hr><ul>
+			<li>Fazemos projetos e plantas.</li>
+			<hr><li>Realizamos atendimento online e presencial.</li>
+			<hr><li>O projeto vai sair do seu jeitinho.</li>
+		</ul>
+        <center><a href="https://www.instagram.com/brunomota.arq/"><font size="40"></font><font color="#6A5ACD">Acesse nosso Instagram!</a></font></center>
+	<br><br>
+    <center><table border=3 cellspacing="2"> <! Inicia a tabela>
+        <caption>EXEMPLOS DE PROJETOS COM PREÇOS</caption>
+        <tr> <! Cria a primeira linha da tabela>
+            <th width=200 align="center" bgcolor="#D2B48C" bordercolor="#8B4513">PROJETOS ENTREGUES</th> <!--coloca em negrito-->
+            <th width=200 align="center" bgcolor="#D2B48C" bordercolor="#8B4513">NOME CLIENTE</th> <!-- Aqui foi criada uma célula-->
+            <th width=200 align="center" bgcolor="#D2B48C" bordercolor="#8B4513">IMOVEL CLIENTE</th>
+            <th width=200 align="center" bgcolor="#D2B48C" bordercolor="#8B4513">TAMANHO IMOVEL</th>
+            <th width=200 align="center" bgcolor="#D2B48C" bordercolor="#8B4513">PREÇO PROJETO </th>
+            </tr>
+            <tr>
+                <td width=100 align="center" bgcolor="#D2B48C" bordercolor="#8B4513">Cliente 1</td>
+                <td width=100 align="center" bgcolor="#DEB887" bordercolor="#8B4513">Liara </td>
+                <td width=100 align="center" bgcolor="#DEB887" bordercolor="#8B4513">Casa </td>
+                <td width=100 align="center" bgcolor="#DEB887" bordercolor="#8B4513">110 metros quadrados. </td>
+                <td width=100 align="center" bgcolor="#DEB887" bordercolor="#8B4513">R$600,00 </td>
+            </tr>
+            <tr>
+                <td width=100 align="center" bgcolor="#D2B48C" bordercolor="#8B4513">Cliente 2</td>
+                <td width=100 align="center" bgcolor="#DEB887" bordercolor="#8B4513">Anny </td>
+                <td width=100 align="center" bgcolor="#DEB887" bordercolor="#8B4513">Varanda </td>
+                <td width=100 align="center" bgcolor="#DEB887" bordercolor="#8B4513">70 metros quadrados</td>
+                <td width=100 align="center" bgcolor="#DEB887" bordercolor="#8B4513">R$270,00</td>
+            </tr>
+            <tr>
+                <td width=100 align="center" bgcolor="#D2B48C" bordercolor="#8B4513">Cliente 3</td>
+                <td width=100 align="center" bgcolor="#DEB887" bordercolor="#8B4513">Lucas </td>
+                <td width=100 align="center" bgcolor="#DEB887" bordercolor="#8B4513">Quarto Infantil </td>
+                <td width=100 align="center" bgcolor="#DEB887">20 metros quadrados </td>
+                <td width=100 align="center" bgcolor="#DEB887">R$180,00</td>
+            </tr>
+            <tr>
+                <td width=100 align="center" bgcolor="#D2B48C">Cliente 4</td>
+                <td width=100 align="center" bgcolor="#DEB887">João </td>
+                <td width=100 align="center" bgcolor="#DEB887">Apartamento </td>
+                <td width=100 align="center" bgcolor="#DEB887">90 metros quadrados</td>
+                <td width=100 align="center" bgcolor="#DEB887">R$310,00</td>
+            </tr>
+            <tr>
+                <td width=100 align="center" bgcolor="#D2B48C">Cliente 5</td>
+                <td width=100 align="center" bgcolor="#DEB887">Clara </td>
+                <td width=100 align="center" bgcolor="#DEB887">Banheiro </td>
+                <td width=100 align="center" bgcolor="#DEB887">23 metros quadrados </td>
+                <td width=100 align="center" bgcolor="#DEB887" bordercolor="#8B4513">R$209,00 </td>
+            </tr>
+        </table></center> <! Encerra a tabela>
+        <ul>
+                <a href="Index (2).html"><img src="Projeto1_1.jpg" width="300" height="150" hspace=15></a>
+                <figcaption>Projeto 1</figcaption>
+                <a href="Index (3).html"><img src="projeto2_1.jpeg"  width="300" height="150" hspace=15></a>
+                <p>Projeto 2</p>
+            
+                <a href="Index (4).html"><img src="WhatsApp Image 2021-03-23 at 08.27.33.jpeg"  width="300" height="150" hspace=15></a>
+                <p>Projeto 3</p>
+                
+                <a href="Index (5).html"><img src="projeto4_1.jpeg"  width="300" height="150" hspace=15></a>
+                <p>Projeto 4</p>
+        </ul>
+    <hr></main></hr>
+    <footer>
+        <center><p>Contato: (11) 99438-2076</p></center>
+        <center><p>E-mail: brunomota4@gmail.com</p></center>
+        <center><p>Endereço: Rua Cascata, Nº 492- Higienópolis, São Paulo - SP</p></center>
+    </footer>
+
+</body>
+</html>
