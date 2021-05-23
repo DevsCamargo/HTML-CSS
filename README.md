@@ -1,2 +1,2 @@
-# HTML-CSS
-Deixaremos neste repositório projetos feitos por nós, de HTML5 e CSS3.
+HTML e CSS - PROJETO BLUX ARQUITETURA
+Site de  apresentação de projetos de arquitetura, repositório feito por HTML5 e CSS3.
